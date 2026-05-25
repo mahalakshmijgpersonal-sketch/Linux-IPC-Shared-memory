@@ -28,6 +28,8 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 <img width="640" height="555" alt="image" src="https://github.com/user-attachments/assets/472c4429-7582-4bb1-bac7-f2b38acc2151" />
+<img width="789" height="444" alt="image" src="https://github.com/user-attachments/assets/0c058275-155b-47c2-a606-57a1c90265ca" />
+
 
 
 
